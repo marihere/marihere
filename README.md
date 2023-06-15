@@ -8,7 +8,7 @@ I'm currently learning more about Flutter and C++.
 <br>
 
 ### 💻 Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,html,css,mysql,linux,bash,git)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,html,css,mysql,linux,bash,git,figma)
 
 <br>
 <br>
